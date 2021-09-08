@@ -4,9 +4,9 @@ namespace areacirculo
 {
     class calculadora
     {
-        public double Pi= 3.14;
-        public double Circunferencia(double r)
-        { 
+        public double Pi = 3.14;
+        public double Circuferencia(double r)
+        {
             return 2.0 * Pi * r;
         }
         public double Volume(double r)
